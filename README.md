@@ -115,22 +115,18 @@ That is exactly what we build.
 
 ---
 
-# 🌱 Open Source
+# 🌱 Open Source & Sovereign Tooling
 
-We believe that knowledge grows when it is shared.
+We believe that software sovereignty, craftsmanship, and knowledge grow when shared openly.
 
-Our GitHub organization contains projects related to:
+### 🏛️ Flagship Open Source Projects
 
-* AI Applications
-* Educational Technology
-* Learning Platforms
-* Business Automation
-* Developer Tools
-* Marketing Utilities
-* UI Components
-* Open APIs
-* Starter Templates
-* Experimental Labs
+* **[Qahera UI Kit (منظومة قاهرة)](https://github.com/alwkala/Qahera-UI-Kit)** — The AI-native, contract-driven Arabic/English design system and multi-target component architecture (React 19 RSC, PHP Plates, Native HTML, Web Components, HTMX). Built with 100% Logical CSS, 0kb client footprint, and 13 authentic Cairo neighborhood themes.  
+  [![npm version](https://img.shields.io/npm/v/qahera-ui.svg?color=0284C7)](https://www.npmjs.com/package/qahera-ui) • [Live Showcase & Studio](https://alwkala.com/qahera)
+
+* **[EGDNA (مستكشف الجينوم المصري)](https://github.com/alwkala/EGDNA)** — Sovereign scientific exploration interface for the Egyptian Genome Project, analyzing population genetics, ancestry markers, and historical Egyptian genomic lineages.
+
+* **[Cinematic Landing Kit](https://github.com/alwkala/Cinematic-Landing-Kit)** — Memory-driven framework instructing AI coding agents to build luxury TV-commercial-grade, scroll-driven landing pages with single-file zero-build-step architecture.
 
 ---
 
