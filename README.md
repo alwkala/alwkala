@@ -4,197 +4,150 @@
 
 > **Building Digital Products. Scaling Digital Businesses.**
 
-### **Build Better. Grow Smarter.**
+<div align="center">
 
-We don't just build websites.
+# 🏛️ ALWKALA Digital Agency
+### Building Digital Products · Scaling Digital Businesses
+**AI Systems · Sovereign UI Engineering · Local-First Architecture · Mission-Critical Operations**
 
-We help entrepreneurs, startups, educational organizations, and growing businesses transform ideas into scalable digital products.
+[![Website](https://img.shields.io/badge/Official_Website-alwkala.com-081B33?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alwkala.com)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-alwkala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alwkala)
+[![NPM Organization](https://img.shields.io/badge/NPM-@alwkala-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/org/alwkala)
+[![License](https://img.shields.io/badge/License-MIT%20%2F%20Commercial-blue?style=for-the-badge)](https://github.com/alwkala)
 
-At **ALWKALA**, technology is only part of the story. We combine **business strategy, user experience, software engineering, artificial intelligence, automation, and digital marketing** to build solutions that create measurable business value.
-We design, build, and grow digital products that combine technology, marketing, automation, and artificial intelligence into scalable business solutions.
-
----
-
-## 🚀 What We Do
-
-Our work covers the complete digital journey—from the first business idea to long-term growth. We design, build, and grow digital products that combine technology, marketing, automation, and artificial intelligence into scalable business solutions.
-
-### 💼 Business Strategy
-
-* Digital Transformation
-* Business Consulting
-* Product Strategy
-* Startup Validation
-* Digital Roadmaps
-
-### 🌐 Software Development
-
-* Business Websites
-* Enterprise Platforms
-* Customer Portals
-* Progressive Web Apps (PWA)
-* Custom Web Applications
-* APIs & Integrations
-
-### 🛒 E-Commerce
-
-* WooCommerce
-* Shopify
-* Custom Commerce Platforms
-* Payment Integration
-* Marketplace Solutions
-
-### 🤖 Artificial Intelligence
-
-* AI Assistants
-* AI Agents
-* Local LLM Applications
-* RAG Systems
-* AI Automation
-* Knowledge Platforms
-
-### 🎓 Education Technology
-
-* Learning Management Systems (LMS)
-* Learning Experience Platforms (LXP)
-* Interactive Learning Content
-* SCORM & xAPI
-* Learning Analytics
-* AI-powered Education
-
-### 📈 Digital Marketing
-
-* Marketing Strategy
-* SEO
-* Paid Advertising
-* Social Media Marketing
-* Content Marketing
-* Marketing Automation
-
-### ⚙️ Automation
-
-* Workflow Automation
-* CRM Integration
-* Business Process Automation
-* Internal Dashboards
-* Custom Productivity Tools
+<p align="center">
+  <b>الوكالة الرقمية</b> — استوديو هندسي متخصص في تطوير البرمجيات السيادية، أنظمة الذكاء الاصطناعي المستقلة،<br>
+  وهندسة الواجهات وحزم المطورين فائقة الأداء من مصر إلى العالم.
+</p>
 
 ---
 
-# 🛠 Technology Stack
+</div>
 
-### Frontend
+## 🌐 Executive Overview
 
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Vue
+At **ALWKALA**, we bridge the gap between abstract business strategy and high-velocity software engineering. We don't just build websites or wrappers; we architect resilient, scalable digital products, autonomous agent swarms, and sovereign developer toolkits that create measurable, bottom-line business value.
 
-### Backend
-
-Node.js • PHP • Laravel • Python • Express
-
-### Databases
-
-MySQL • PostgreSQL • SQLite • MongoDB
-
-### AI
-
-Python • Ollama • llama.cpp • Hugging Face • LangChain • Gradio • TensorFlow • PyTorch
-
-### DevOps
-
-Docker • GitHub Actions • Linux • Nginx • Cloud Infrastructure
+Our work is anchored on three foundational principles:
+1. **Data Sovereignty & Local-First Resilience:** Zero unwanted cloud lock-in, zero recurrent SaaS bloat, and self-hosted high-security engines.
+2. **Deterministic AI Engineering:** Equipping LLMs and autonomous coding agents with strict contextual decision layers (CDL), token-efficient protocols, and deterministic constraints.
+3. **Dual-Surface User Experience:** Pairing sub-second, static-speed public interfaces with rich, dynamic AI diagnostic workflows and frictionless commerce journeys.
 
 ---
 
-# 🌍 Our Philosophy
+## ⚡ Featured Ecosystem & Flagship Projects
 
-Digital success isn't built by isolated services.
-
-It is built by connecting **strategy**, **design**, **technology**, **marketing**, **automation**, and **continuous improvement** into one integrated ecosystem.
-
-That is exactly what we build.
-
----
-
-# 🌱 Open Source & Sovereign Tooling
-
-We believe that software sovereignty, craftsmanship, and knowledge grow when shared openly.
-
-### 🏛️ Flagship Open Source Projects
-
-* **[Qahera UI Kit (منظومة قاهرة)](https://github.com/alwkala/Qahera-UI-Kit)** — The AI-native, contract-driven Arabic/English design system and multi-target component architecture (React 19 RSC, PHP Plates, Native HTML, Web Components, HTMX). Built with 100% Logical CSS, 0kb client footprint, and 13 authentic Cairo neighborhood themes.  
-  [![npm version](https://img.shields.io/npm/v/qahera-ui.svg?color=0284C7)](https://www.npmjs.com/package/qahera-ui) • [Live Showcase & Studio](https://alwkala.com/qahera)
-
-* **[EGDNA (مستكشف الجينوم المصري)](https://github.com/alwkala/EGDNA)** — Sovereign scientific exploration interface for the Egyptian Genome Project, analyzing population genetics, ancestry markers, and historical Egyptian genomic lineages.
-
-* **[Cinematic Landing Kit](https://github.com/alwkala/Cinematic-Landing-Kit)** — Memory-driven framework instructing AI coding agents to build luxury TV-commercial-grade, scroll-driven landing pages with single-file zero-build-step architecture.
+### 🎨 1. AI-Native UI & Design Engineering
+| Project / Repository | Description | Key Tech Stack | Badges / Status |
+| :--- | :--- | :--- | :--- |
+| **[Qahera-UI-Kit](https://github.com/alwkala/Qahera-UI-Kit)** | First AI-native Arabic Cairene UI engineering language with a deterministic Contextual Decision Layer (CDL). Cuts LLM context tokens by 40%+, guarantees visual consistency across 6 multi-stack targets, and features 12 Cairene neighborhood themes. | React 19 · PHP Plates · Web Components · Tailwind | [![GitHub stars](https://img.shields.io/github/stars/alwkala/Qahera-UI-Kit?style=flat-square)](https://github.com/alwkala/Qahera-UI-Kit) [![npm](https://img.shields.io/npm/v/qahera-ui?style=flat-square&color=crimson)](https://www.npmjs.com/package/qahera-ui) |
+| **[Cinematic-Landing-Kit](https://github.com/alwkala/Cinematic-Landing-Kit)** | Memory-driven design system instructing AI coding agents to produce single-file luxury landing pages (Apple × Cartier aesthetic) with buttery-smooth 60 FPS canvas frame scrubbing and zero build step. | Vanilla JS · GSAP · Canvas 60FPS · CDN | [![GitHub stars](https://img.shields.io/github/stars/alwkala/Cinematic-Landing-Kit?style=flat-square)](https://github.com/alwkala/Cinematic-Landing-Kit) [![npm](https://img.shields.io/npm/v/@alwkala/cinematic-landing-kit?style=flat-square)](https://www.npmjs.com/package/@alwkala/cinematic-landing-kit) |
+| **[tidyfactor-design](https://github.com/alwkala/tidyfactor-design)** | Code-native UI design lifecycle engine & interactive Figma alternative. Governs 7 design stages and 24 commands via a single `brand.json v2` source-of-truth. | Python · CSS Tokens · Web Standards | [![GitHub stars](https://img.shields.io/github/stars/alwkala/tidyfactor-design?style=flat-square)](https://github.com/alwkala/tidyfactor-design) |
 
 ---
 
-# ❤️ Industries We Support
-
-* Education
-* Startups
-* SMEs
-* Government
-* Healthcare
-* Retail
-* E-Commerce
-* NGOs
-* Professional Services
-* Technology Companies
+### 🛡️ 2. Local-First Systems & Infrastructure Control
+| Project / Repository | Description | Key Tech Stack | Badges / Status |
+| :--- | :--- | :--- | :--- |
+| **[SHAHEEN-OPS](https://alwkala.com)** | **🦅 شاهين — Official Product:** Sovereign Autonomous NOC & DevOps Mission Control Desktop Platform. Features real-time Falcon Radar system tray, 24/7 Sentinel Watchdog, multi-server SSH2 connection pool, and safe automated pre-flight verification gates. | Electron · Node.js · Express 5 · SSH2 · WebSocket | `v1.0.0` · Desktop `.exe` / Portable |
+| **[NETWATCH](https://github.com/alwkala/NETWATCH)** | Local Network Intelligence & Device Inventory. Instant subnet discovery, vendor MAC resolution, historical reconciliation, 100% offline, zero cloud dependency. | Go · React · SQLite · Wails | [![GitHub stars](https://img.shields.io/github/stars/alwkala/NETWATCH?style=flat-square)](https://github.com/alwkala/NETWATCH) |
 
 ---
 
-# 🤝 Let's Build Together
-
-Whether you're launching your first startup, scaling an existing business, modernizing an educational platform, or exploring the power of AI—we'd love to collaborate.
-
-We welcome contributions from developers, designers, educators, marketers, AI engineers, and open-source enthusiasts.
-
----
-
-# 🌐 Connect With Us
-
-🌍 **Website**
-https://alwkala.com
-
-👥 **About ALWKALA**
-https://alwkala.com/agency/about?lang=en
-
-💻 **GitHub**
-https://github.com/alwkala
-
-📘 **Facebook**
-https://facebook.com/Alwkala.Agency
-
-📸 **Instagram**
-https://instagram.com/alwkala_digital_media
+### 🧬 3. Scientific, Genomic & Document Intelligence
+| Project / Repository | Description | Key Tech Stack | Badges / Status |
+| :--- | :--- | :--- | :--- |
+| **[EGDNA](https://github.com/alwkala/EGDNA)** | **Egyptian Genomic Explorer (مستكشف الجينوم المصري):** Interactive genomic data analysis and geospatial visualization platform with high-speed rendering and zero database bloat. | PHP · Plotly · SQLite · Qahera UI | [![GitHub stars](https://img.shields.io/github/stars/alwkala/EGDNA?style=flat-square)](https://github.com/alwkala/EGDNA) |
+| **[DocuVerb](https://github.com/alwkala/DocuVerb)** | Modular Document Intelligence, Translation & Publishing Engine. Direct document parsing (PDF, Word), glossary extraction, and offline translation using local LLMs (LM Studio, Ollama). | Python · PyMuPDF · python-docx · OpenAI API | [![GitHub stars](https://img.shields.io/github/stars/alwkala/DocuVerb?style=flat-square)](https://github.com/alwkala/DocuVerb) |
+| **[almizan](https://github.com/alwkala/almizan)** | AI-powered cost analysis and dynamic pricing intelligence platform for enterprise quotations and financial planning. | TypeScript · Next.js · Node.js | [![GitHub stars](https://img.shields.io/github/stars/alwkala/almizan?style=flat-square)](https://github.com/alwkala/almizan) |
 
 ---
 
-# 💬 Contact
-
-📧 Business Inquiries
-[hello@alwkala.com](mailto:hello@alwkala.com)
-
-📱 WhatsApp
-
-* +20 101 665 6899
-* +20 127 172 0708
-* +20 155 506 8947
-
-📞 Phone
-
-+20 101 665 6899
-
-📍 Cairo, Egypt
+### 💼 4. Business OS & Client Portals
+| Project / Repository | Description | Key Tech Stack | Badges / Status |
+| :--- | :--- | :--- | :--- |
+| **[PocketOffice](https://alwkala.com/pocketoffice/)** | **PocketOffice & [Community Edition](https://github.com/alwkala/PocketOffice-community):** Self-hosted Business OS, CRM, and financial manager running directly from a single local directory with zero external database requirements and zero monthly subscriptions. | PHP · SQLite · Flat-file · AI Helper | Self-Hosted / Zero SaaS |
+| **[ClientX](https://alwkala.com/clientx/)** | Advanced agency management hub, client portal, automated billing, and notification system built for modern digital agencies. | PHP · RESTful API · Tailwind CSS | Commercial Platform |
+| **[ClassPlus CRM](https://github.com/alwkala/ClassPlus-SaaS-CRM)** | Multi-tenant SaaS CRM prototype designed for educational academies, training centers, and student lifecycle management. | TypeScript · React · Vite | Open Prototype |
 
 ---
 
-## ⭐ Our Mission
+## 📦 The TidyFactor Open Package Suite (NPM)
 
-To empower businesses with intelligent digital solutions that are practical, scalable, and built for sustainable growth.
+All our architectural skills, agent runbooks, and micro-frameworks are distributed as atomic, verified packages on NPM under the `@alwkala` scope:
 
+```bash
+# UI Craft, Design Systems & Motion
+npm install @alwkala/qahera-ui              # AI-native design system with Cairene themes
+npm install @alwkala/cinematic-landing-kit  # 60 FPS luxury scroll-driven landing pages
+npm install @alwkala/tidyfactor-styler      # Surgical, logical CSS RTL styler that lives in-place
+npm install @alwkala/tidyfactor-design      # Code-native UI design lifecycle (Figma alternative)
+
+# Multi-Stack App Starters & Kernels
+npm install @alwkala/tidyfactor-next        # Next.js 16 + React 19 B2B SaaS with Postgres RLS
+npm install @alwkala/tidyfactor-php         # Fast PHP 8.4+ modular monolith on Flight & Plates
+npm install @alwkala/tidyfactor-js          # Zero-dependency reactive Vanilla SPA (<10KB)
+npm install @alwkala/tidyfactor-htmx        # Server-driven hypermedia with morphdom swaps
+npm install @alwkala/tidyfactor-html        # 100/100 Lighthouse semantic edge static starter
+
+# Growth, Intelligence & Documentation
+npm install @alwkala/tidyfactor-marketing   # 360° AI growth engine across 7 pillars & 28 capabilities
+npm install @alwkala/tidyfactor-doc         # Zero-hallucination codebase interview & Docsify generator
+```
+
+---
+
+## 🏆 Measurable Client Impact & Spotlight Case Studies
+
+We engineer solutions with battle-tested commercial results across the MENA region and worldwide:
+
+* **[Livia Naturals](https://livianaturals.com)** *(Cosmeceuticals & AI Beauty-Tech)*:
+  * **Dual-Surface Architecture:** Sub-second LCP (0.84s) marketing surface coupled with an interactive AI bio-diagnostic consultant.
+  * **Results:** **+60.5% Average Order Value** (380 to 900+ EGP), **10.02 EGP Meta CPL**, 100% offline-ready hybrid continuity.
+* **[Green Valley Export](http://greenvalleyexport.us)** *(Agricultural International Export)*:
+  * Global B2B produce export platform with multi-currency catalog and sub-second global edge delivery.
+* **[Taška](https://taskaeg.com)** *(Luxury Genuine Leather E-Commerce)*:
+  * High-conversion WooCommerce storefront with automated Paymob payment flows and streamlined checkout.
+* **[AlHoulie](https://alhoulie.com)** *(Fashion & Accessories)*:
+  * Bilingual, high-fashion catalog featuring silky GSAP and Lenis smooth scrolling.
+* **[Ajyal Ibn Roshd](https://ajyalibnroshd.com)** *(Next-Gen EdTech)*:
+  * Comprehensive school portal and learning system with intuitive RTL Arabic UX.
+
+---
+
+## 🛠️ Technology Stack & Engineering Matrix
+
+<div align="center">
+
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & UI** | TypeScript, React 19, Next.js, Vue, Tailwind CSS, Vanilla JS, GSAP, Lenis, Alpine.js, Web Components |
+| **Backend & APIs** | Node.js (Express / Fastify), Go, PHP 8.4+ (Flight / Laravel / Medoo), Python (FastAPI / Flask) |
+| **Local-First & Desktop** | Electron, Wails (Go + Web), SQLite, Flat-file databases, IPC Context Bridges |
+| **Data & Databases** | PostgreSQL (RLS), MySQL / MariaDB, SQLite, Redis |
+| **AI, RAG & Agents** | Antigravity AI SDK, PyMuPDF, LangChain, LM Studio, Ollama, Hugging Face, OpenAI API |
+| **DevOps & Cloud** | Linux (Ubuntu / AlmaLinux), cPanel/WHM, Docker, Nginx, Apache MPM Event, GitHub Actions, Cloudflare Pages |
+
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+
+Whether you need to architect an autonomous enterprise platform, deploy local-first systems, or build a high-conversion digital product:
+
+* 🌐 **Website:** [alwkala.com](https://alwkala.com)
+* 💼 **Services & Enterprise Portals:** [alwkala.com/agency](https://alwkala.com/agency)
+* 📦 **Product Catalog:** [alwkala.com/agency/pages/products](https://alwkala.com/agency/pages/products)
+* 💼 **LinkedIn:** [ALWKALA Digital Agency](https://www.linkedin.com/company/alwkala)
+* 📧 **Direct Inquiries:** `hello@alwkala.com`
+* 📍 **Headquarters:** Cairo, Egypt · *Serving Clients Globally*
+
+---
+
+<div align="center">
+  <sub>Built with precision and passion by <b>ALWKALA Digital Agency</b>. © 2026 ALWKALA. All rights reserved.</sub>
+</div>
 ---
 
 ### *From Strategy to Scale.*
