@@ -37,7 +37,15 @@ Our work is anchored on three foundational principles:
 
 ## ⚡ Featured Ecosystem & Flagship Projects
 
-### 🎨 1. AI-Native UI & Design Engineering
+### 𓂀 1. AkhetRa — Sovereign AI & Governed Intelligence
+| Project / Repository | Description | Key Tech Stack | Badges / Status |
+| :--- | :--- | :--- | :--- |
+| **[akhet-models](https://github.com/alwkala/akhet-models)** | **The AkhetRa Model Family:** Central monorepo for sovereign, local-first language models (featuring **Akhet-Ra1** 4.2B Hybrid SSM+Attention), bilingual evaluation harnesses, system prompts, and Spaces demos. | Hybrid SSM · PyTorch · GGUF · llama.cpp · Gradio | [![GitHub stars](https://img.shields.io/github/stars/alwkala/akhet-models?style=flat-square)](https://github.com/alwkala/akhet-models) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20HF-alwkala%2FAkhet--Ra1-yellow?style=flat-square)](https://huggingface.co/alwkala/Akhet-Ra1) |
+| **[Akhet-Ra1 on Hugging Face](https://huggingface.co/alwkala/Akhet-Ra1)** | Fine-tuned 4.2B bilingual causal model with 256K native training context and 32K active runtime context, native `<think>` reasoning, and strict XML/JSON tool calling. | Q4_K_M GGUF · Apache-2.0 · Local-First | `v0.2.0` · 2.52 GB GGUF |
+
+---
+
+### 🎨 2. AI-Native UI & Design Engineering
 | Project / Repository | Description | Key Tech Stack | Badges / Status |
 | :--- | :--- | :--- | :--- |
 | **[Qahera-UI-Kit](https://github.com/alwkala/Qahera-UI-Kit)** | First AI-native Arabic Cairene UI engineering language with a deterministic Contextual Decision Layer (CDL). Cuts LLM context tokens by 40%+, guarantees visual consistency across 6 multi-stack targets, and features 12 Cairene neighborhood themes. | React 19 · PHP Plates · Web Components · Tailwind | [![GitHub stars](https://img.shields.io/github/stars/alwkala/Qahera-UI-Kit?style=flat-square)](https://github.com/alwkala/Qahera-UI-Kit) [![npm](https://img.shields.io/npm/v/qahera-ui?style=flat-square&color=crimson)](https://www.npmjs.com/package/qahera-ui) |
@@ -46,7 +54,7 @@ Our work is anchored on three foundational principles:
 
 ---
 
-### 🛡️ 2. Local-First Systems & Infrastructure Control
+### 🛡️ 3. Local-First Systems & Infrastructure Control
 | Project / Repository | Description | Key Tech Stack | Badges / Status |
 | :--- | :--- | :--- | :--- |
 | **[SHAHEEN-OPS](https://alwkala.com)** | **🦅 شاهين — Official Product:** NOC & DevOps Mission Control Desktop Platform. Features real-time Falcon Radar system tray, 24/7 Sentinel Watchdog, multi-server SSH2 connection pool, and safe automated pre-flight verification gates. | Electron · Node.js · Express 5 · SSH2 · WebSocket | `v1.0.0` · Desktop `.exe` / Portable |
@@ -54,7 +62,7 @@ Our work is anchored on three foundational principles:
 
 ---
 
-### 🧬 3. Scientific, Genomic & Document Intelligence
+### 🧬 4. Scientific, Genomic & Document Intelligence
 | Project / Repository | Description | Key Tech Stack | Badges / Status |
 | :--- | :--- | :--- | :--- |
 | **[EGDNA](https://github.com/alwkala/EGDNA)** | **Egyptian Genomic Explorer (مستكشف الجينوم المصري):** Interactive genomic data analysis and geospatial visualization platform with high-speed rendering and zero database bloat. | PHP · Plotly · SQLite · Qahera UI | [![GitHub stars](https://img.shields.io/github/stars/alwkala/EGDNA?style=flat-square)](https://github.com/alwkala/EGDNA) |
@@ -63,7 +71,7 @@ Our work is anchored on three foundational principles:
 
 ---
 
-### 💼 4. Business OS & Client Portals
+### 💼 5. Business OS & Client Portals
 | Project / Repository | Description | Key Tech Stack | Badges / Status |
 | :--- | :--- | :--- | :--- |
 | **[PocketOffice](https://alwkala.com/pocketoffice/)** | **PocketOffice & [Community Edition](https://github.com/alwkala/PocketOffice-community):** Self-hosted Business OS, CRM, and financial manager running directly from a single local directory with zero external database requirements and zero monthly subscriptions. | PHP · SQLite · Flat-file · AI Helper | Self-Hosted / Zero SaaS |
@@ -125,7 +133,7 @@ We engineer solutions with battle-tested commercial results across the MENA regi
 | **Backend & APIs** | Node.js (Express / Fastify), Go, PHP 8.4+ (Flight / Laravel / Medoo), Python (FastAPI / Flask) |
 | **Local-First & Desktop** | Electron, Wails (Go + Web), SQLite, Flat-file databases, IPC Context Bridges |
 | **Data & Databases** | PostgreSQL (RLS), MySQL / MariaDB, SQLite, Redis |
-| **AI, RAG & Agents** | Antigravity AI SDK, PyMuPDF, LangChain, LM Studio, Ollama, Hugging Face, OpenAI API |
+| **AI, Models & Agents** | Local Causal LLMs (Hybrid SSM / GGUF), llama.cpp, Antigravity AI SDK, PyMuPDF, LangChain, LM Studio, Ollama, Hugging Face Hub, OpenAI API |
 | **DevOps & Cloud** | Linux (Ubuntu / AlmaLinux), cPanel/WHM, Docker, Nginx, Apache MPM Event, GitHub Actions, Cloudflare Pages |
 
 </div>
