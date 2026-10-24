@@ -8,7 +8,7 @@
 
 # 🏛️ ALWKALA Digital Agency
 ### Building Digital Products · Scaling Digital Businesses
-**AI Systems · Sovereign UI Engineering · Local-First Architecture · Mission-Critical Operations**
+**AI Systems · UI Engineering · Local-First Architecture · Mission-Critical Operations**
 
 [![Website](https://img.shields.io/badge/Official_Website-alwkala.com-081B33?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alwkala.com)
 [![GitHub Organization](https://img.shields.io/badge/GitHub-alwkala-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alwkala)
@@ -26,7 +26,7 @@
 
 ## 🌐 Executive Overview
 
-At **ALWKALA**, we bridge the gap between abstract business strategy and high-velocity software engineering. We don't just build websites or wrappers; we architect resilient, scalable digital products, autonomous agent swarms, and sovereign developer toolkits that create measurable, bottom-line business value.
+At **ALWKALA**, we bridge the gap between abstract business strategy and high-velocity software engineering. We don't just build websites or wrappers; we architect resilient, scalable digital products, autonomous agent swarms, and developer toolkits that create measurable, bottom-line business value.
 
 Our work is anchored on three foundational principles:
 1. **Data Sovereignty & Local-First Resilience:** Zero unwanted cloud lock-in, zero recurrent SaaS bloat, and self-hosted high-security engines.
@@ -49,7 +49,7 @@ Our work is anchored on three foundational principles:
 ### 🛡️ 2. Local-First Systems & Infrastructure Control
 | Project / Repository | Description | Key Tech Stack | Badges / Status |
 | :--- | :--- | :--- | :--- |
-| **[SHAHEEN-OPS](https://alwkala.com)** | **🦅 شاهين — Official Product:** Sovereign Autonomous NOC & DevOps Mission Control Desktop Platform. Features real-time Falcon Radar system tray, 24/7 Sentinel Watchdog, multi-server SSH2 connection pool, and safe automated pre-flight verification gates. | Electron · Node.js · Express 5 · SSH2 · WebSocket | `v1.0.0` · Desktop `.exe` / Portable |
+| **[SHAHEEN-OPS](https://alwkala.com)** | **🦅 شاهين — Official Product:** NOC & DevOps Mission Control Desktop Platform. Features real-time Falcon Radar system tray, 24/7 Sentinel Watchdog, multi-server SSH2 connection pool, and safe automated pre-flight verification gates. | Electron · Node.js · Express 5 · SSH2 · WebSocket | `v1.0.0` · Desktop `.exe` / Portable |
 | **[NETWATCH](https://github.com/alwkala/NETWATCH)** | Local Network Intelligence & Device Inventory. Instant subnet discovery, vendor MAC resolution, historical reconciliation, 100% offline, zero cloud dependency. | Go · React · SQLite · Wails | [![GitHub stars](https://img.shields.io/github/stars/alwkala/NETWATCH?style=flat-square)](https://github.com/alwkala/NETWATCH) |
 
 ---
